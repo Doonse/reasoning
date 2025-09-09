@@ -1,2 +1,9 @@
+/__pycache__
+/images
+/data
+/country_graphs
+/gephi_graphs
+/pkls
 *.gexf
 .gitignore
+*.csv
